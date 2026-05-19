@@ -1,2 +1,0 @@
-# odin-recipes
-Hello There! This is about the recipes page project. I have chose my personal favourite recipes for this project. The project is very easy as it is beginner level HTML with no CSS or anyting. I have used the images from Indian Healthy Recipes and Raks Kitchen websites. The project helps you for your foundation HTMl as it helps with creating a simple webpage consisting of title, main sectin, subsection and few lists.
